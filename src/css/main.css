@@ -1,0 +1,12 @@
+html, body, .item {
+    margin: 0;
+    padding: 0;
+}
+
+.item {
+    list-style-type: none;
+}
+
+.input, .item {
+    margin: 10px;
+}
